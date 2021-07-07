@@ -1,16 +1,14 @@
-### Hi there 👋
+```js
+  var aboutme = {
+      "name": "Lucas",
+      "occupattions": {
+          "one": "programmer",
+          "two": "web developer"
+      },
+      "languages": ["HTML", "CSS", "JavaScript", "C++", "Python"]
+  }
+  
+  console.log(`Hello, my name is ${aboutme.name}, i'm a ${aboutme.occupattions.one} and a ${aboutme.occupattions.two}`)
+  console.log(`i'm currently working with ${aboutme.languages.slice(0, 4).join(', ')} and ${aboutme.languages[4]}`)
+```
 
-<!--
-**heviki/heviki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
