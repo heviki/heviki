@@ -1,14 +1,20 @@
-```js
-  var aboutme = {
-      "name": "Lucas",
-      "occupattions": {
-          "one": "programmer",
-          "two": "web developer"
-      },
-      "languages": ["HTML", "CSS", "JavaScript", "C++", "Python"]
-  }
-  
-  console.log(`Hello, my name is ${aboutme.name}, i'm a ${aboutme.occupattions.one} and a ${aboutme.occupattions.two}`)
-  console.log(`i'm currently working with ${aboutme.languages.slice(0, 4).join(', ')} and ${aboutme.languages[4]}`)
-```
+<h1> Olá! 👋<br> Eu sou o Lucas</h1>
+
+<ul>
+  <li> 🛠 Estudante de programação e tecnologia
+  <li> 🌐 Atualmente estudando desenvolvimento front-end
+  <li> ⚙ Linguagens: HTML e CSS
+</ul>
+<br>
+<a href="https://github.com/heviki">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heviki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<h1></h1>
+<section>
+  <a href="https://github.com/heviki">
+    <img src="https://github.com/heviki/heviki/blob/output/github-contribution-grid-snake.svg" alt="Github Contributions">
+  </a>
+</section>
+
+
 
