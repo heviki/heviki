@@ -2,8 +2,8 @@
 
 <ul>
   <li> 🛠 Estudante de programação e tecnologia
-  <li> 🌐 Atualmente estudando desenvolvimento front-end
-  <li> ⚙ Linguagens: HTML e CSS
+  <li> 🌐 Atualmente estudando Rust
+  <li> ⚙ Linguagens: HTML, CSS e Rust
 </ul>
 <br>
 <div>
